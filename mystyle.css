@@ -1,0 +1,13 @@
+h1 {
+  background-color:powderblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+  border-style: solid;
+}
+fixed {
+  position: fixed;
+  top: 2000px;
+  left: 300px;
+  border: 3px solid #73AD21;
+}
